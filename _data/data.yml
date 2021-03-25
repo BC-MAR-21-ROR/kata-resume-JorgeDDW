@@ -7,22 +7,22 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  name: Jorge David Dominguez Wehbe # Nombre completo
+  tagline: Ruby on Rails Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: jorge.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
+  email: hi@jorgedev.com
   phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  website: jorgedev.com # No agregar http://
+  linkedin: https://www.linkedin.com/in/jorgedominguezw/
+  github: https://github.com/jorgeDDW/
+  gitlab: https://gitlab.com/JorgeDDW
+  bitbucket: bitbucket.org/JorgeDominguezD/
+  twitter: '@JorgeDDW'
+  stack-overflow: 893599/jorge-dominguez # Number/Username, e.g. 123456/alandoe
+  codewars: https://www.codewars.com/users/JorgeDDW
+  goodreads: 67424657-jorge-dominguez # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
