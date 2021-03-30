@@ -41,19 +41,19 @@ sidebar:
       link: # dejar en blanco
 
     - item: Emotional Inteligence
-    link: # dejar en blanco
+      link: # dejar en blanco
 
     - item: Problem Solver
       link: # dejar en blanco
 
     - item: Critial Thinking
-    link: # dejar en blanco
+      link: # dejar en blanco
 
     - item: Open-minded
-    link: # dejar en blanco
+      link: # dejar en blanco
 
     - item: Results-oriented
-    link: # dejar en blanco
+      link: # dejar en blanco
 
 
 # Registra aquí un resumen de tu perfil
@@ -121,9 +121,8 @@ projects:
       also help the customer to pick the main part of the web app to create
       an MVP, so me and team could focus on write a robust structure for the 
       future updates of the app. 
-      
       Technologies: Ruby, Ruby on Rails, JavaScript, ReactJS, BulmaCSS, PostgresQL. 
-
+    
 - role: Lead Developer
     time: February 2015 - October 2015
     company: Snap Ride, Santo Domingo, Republica Dominicana.
