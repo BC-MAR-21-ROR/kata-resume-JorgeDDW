@@ -123,7 +123,7 @@ projects:
       future updates of the app. 
       Technologies: Ruby, Ruby on Rails, JavaScript, ReactJS, BulmaCSS, PostgresQL. 
     
-- role: Lead Developer
+  - role: Lead Developer
     time: February 2015 - October 2015
     company: Snap Ride, Santo Domingo, Republica Dominicana.
     details: |
@@ -141,7 +141,7 @@ projects:
 
       Technologies: PHP, JavaScript, Java, Objective-C, HTML, CSS. 
 
-- role: Lead Developer
+  - role: Lead Developer
     time: September 2017 - September 2018
     company: Global Information Page, New York, United States.
     details: |
