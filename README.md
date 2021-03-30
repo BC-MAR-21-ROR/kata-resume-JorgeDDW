@@ -6,14 +6,14 @@ El propósito de esta actividad es tener un perfil completo de nuestros BrightCo
 
 ## Instrrucciones
 
-Actualiza el archivo [_data/data.yml](_data/data.yml) con tu información, siguiendo las indicaciones que a continuación se presentan.
+Actualiza el archivo [\_data/data.yml](_data/data.yml) con tu información, siguiendo las indicaciones que a continuación se presentan.
 
 Puedes modificar el archivo directamente desde aquí en GitHub o descargarlo en tu computadora local y subir la actualización (utilizando git).
 
 ## Habilitar GitHub Pages
 
 1. Ve al apartado de `settings` de este repositorio.
-2. Ubica el apartado  `Github Pages`
+2. Ubica el apartado `Github Pages`
 3. En `source` selecciona la rama `master`
 4. En el archivo `_config.yml` modifica el campo `baseurl:` con la dirección que tu GitHub Pages generó-
 
@@ -32,12 +32,12 @@ Con esto se publicará tu repositorio y en esa dirección podrás revisar las ac
 ## Foto
 
 1. Prepara una foto de perfil tuya de tamaño 100x100
-2. Guardala en la carpeta `assets/images`  con el nombre profile.png
+2. Guardala en la carpeta `assets/images` con el nombre profile.png
 
 ## Datos de contacto
 
 1. Ubica el apartado `email` y completa todos los datos de contacto que quieras registrar.
-  
+
 ## Idiomas
 
 1. Ubica el apartado `languages`.
@@ -50,7 +50,7 @@ Con esto se publicará tu repositorio y en esa dirección podrás revisar las ac
 
 1. Ubica el apartado `interests`.
 2. Agrega un soft skill en cada `item`.
-  
+
 Los Soft Skills son competencias o habilidades sociales que son fundamentales para relacionarse con otras personas ya sea en la vida diaria o en el trabajo, como por ejemplo la comunicación, el trabajo en equipo, adaptabilidad, creatividad, pensamiento creativo, solución de problemas, confianza, administración del tiempo, personas o tareas, colaboración, etc.
 
 Estas son algunas de las soft skills que más valoran los empleadores:
@@ -66,9 +66,9 @@ Estas son algunas de las soft skills que más valoran los empleadores:
 1. Ubica el apartado `career-profile`.
 2. En el campo `summary` escribe un resumen de tu perfil, por ejemplo:
 
->I am a person passionate about technology and I love programming, I am fascinated by areas such as robotics, IoT, artificial intelligence, and its application in agriculture. I am an autodidact programmer, I like to learn new things. I love nature and coffee.
+> I am a person passionate about technology and I love programming, I am fascinated by areas such as robotics, IoT, artificial intelligence, and its application in agriculture. I am an autodidact programmer, I like to learn new things. I love nature and coffee.
 
->I am a Computer Systems Engineering student. I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. My biggest passion is technology, which I think can help us all to become a better person, friend, worker, and a productive member of society. Currently, I want to become a Senior Developer at an innovative company here, in Mexico, where I can get the opportunity to be creative and solve problems people struggle with every day.
+> I am a Computer Systems Engineering student. I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. My biggest passion is technology, which I think can help us all to become a better person, friend, worker, and a productive member of society. Currently, I want to become a Senior Developer at an innovative company here, in Mexico, where I can get the opportunity to be creative and solve problems people struggle with every day.
 
 ## Educación
 
@@ -100,4 +100,4 @@ Para entender el modelo Dreyfus e identificar en que nivel te encuentras utiliza
 - [Building Software Development Expertise – Using The Dreyfus Model](https://skorks.com/2009/08/building-software-development-expertise-using-the-dreyfus-model/)
 - [Software Engineer Qualification Levels: Junior, Middle, and Senior](https://hackernoon.com/software-engineer-qualification-levels-junior-middle-and-senior-f2229591df1c)
 
-**NOTA** Este template fué tomado de [https://github.com/sharu725/online-cv](https://github.com/sharu725/online-cv)  y adaptado para BrightCoders.
+**NOTA** Este template fué tomado de [https://github.com/sharu725/online-cv](https://github.com/sharu725/online-cv) y adaptado para BrightCoders.

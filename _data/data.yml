@@ -13,7 +13,7 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: hi@jorgedev.com
-  phone:
+  phone: 1-809-673-0758
   website: jorgedev.com # No agregar http://
   linkedin: https://www.linkedin.com/in/jorgedominguezw/
   github: https://github.com/jorgeDDW/
@@ -34,80 +34,131 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Self-taught
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Active Listener
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Emotional Inteligence
+    link: # dejar en blanco
+
+    - item: Problem Solver
       link: # dejar en blanco
+
+    - item: Critial Thinking
+    link: # dejar en blanco
+
+    - item: Open-minded
+    link: # dejar en blanco
+
+    - item: Results-oriented
+    link: # dejar en blanco
+
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+  summary: >-
+    Proactive and Independent but team player Ruby on Rails developer, living in the edges of 
+    technology to implement methods and processes to achieve what the client needs. Always testing 
+    new things and creating discussions in the developer's community on what to improve or bugs to 
+    fix. All of this helps me bring valuable ideas from a business owner's point of view, committed to 
+    writing clean, efficient, and accessible code in a functional framework. With a touch to identifying 
+    opportunities for application development.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+    university: Instituto Tecnológico de las Américas 
+    time: January 2014 - July 2014 
+    details: Java-Degree
+
+  - degree: Technical Ruby/RoR
+    university: Team Tree House
+    time: July 2013 - December 2018
     details: |
+      I start learning all I know in this website:
+        - HTML & HTML5
+        - CSS & CSS3
+        - Ruby & Ruby on Rails
+        - Javascript
+        - Python & Django
+        - Java for Android
+        - PHP & Wordpress
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Continuing Education
+    university: PluralSight, Udacity, Udemy, Team Tree House
+    time: 2018 - Current
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      In my Lifelong learning process, I keep updating my self with this sites,
+  
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Lead Developer
     time: 2015 - Present
-    company: Startup Hubs, San Francisco
+    company: Innovadode, Higuey, Dominican Republic
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Innova Code is a local company that has a few international clients,
+      that's where I grew as a software developer and was able to manage
+      onsite and remote teams. During this time I participated in the following 
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+projects: 
+  - role: Lead Developer
+    time: 2019 - Present
+    company: Empresas JNA, Higuey, Republica Dominicana.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Carrosycasas.com is made with Ruby on Rails, I was able to work with good practices and 
+      cutting-edge technologies.  
+
+      Main tasks executed in the project:  
+      - Project planning 
+      - Backend development. 
+      - Server deployment. 
+
+      I Listed the customer needs and ideas, their ideas was very good, 
+      also help the customer to pick the main part of the web app to create
+      an MVP, so me and team could focus on write a robust structure for the 
+      future updates of the app. 
+      
+      Technologies: Ruby, Ruby on Rails, JavaScript, ReactJS, BulmaCSS, PostgresQL. 
+
+- role: Lead Developer
+    time: February 2015 - October 2015
+    company: Snap Ride, Santo Domingo, Republica Dominicana.
+    details: |
+      It was a Uber-like App for Santo Domingo City to join all local taxis under one app so they can have an 
+      alternative option to Uber, Uber was not present in the Dominican Republic at the beginning of the 
+      project development. 
+      
+      Main tasks executed in the project:  
+        - Planning. 
+        - Android App development. 
+        - Backend made with PHP. 
+
+      Our customer was the pioneer in the Dominican Republic to have a Uber-like app
+      with GPS and online payments. 
+
+      Technologies: PHP, JavaScript, Java, Objective-C, HTML, CSS. 
+
+- role: Lead Developer
+    time: September 2017 - September 2018
+    company: Global Information Page, New York, United States.
+    details: |
+      A portal to post different types ads listings as: business locations, real estate, cars, events, jobs, 
+      ecommerce. 
+      
+      Main tasks executed in the project:  
+        - Planning 
+        - Team manager 
+        - Software developer. 
+        - Testing 
+      
+      We was able to help the customer achieve what he was looking for, and then he launch his product 
+      and start getting collaborators for this platform, even get funding from angel investors.  
+      
+      Technologies: Wordpress, PHP, JavaScript, HTML, CSS. 
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -119,23 +170,41 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+    - name: Ruby
+      level: 60%
+
+    - name: Ruby on Rails
+      level: 60%
+
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
+    - name: Django 
+      level: 20%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 60%
 
-    - name: C/C++
+    - name: Linux/Unix
+      level: 60%
+
+    - name: JavaScript
       level: 40%
+
+    - name: MySQL
+      level: 40%
+    
+    - name: PostgresQL
+      level: 60%
+
+    - name: Redis
+      level: 20%
+
+    - name: Docker
+      level: 20%
 
 # NO MODIFICAR
 footer: >
